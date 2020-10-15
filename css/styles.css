@@ -1,0 +1,41 @@
+body{
+  font-family: "Montserrat";
+}
+h3{
+  font-family: "Ubuntu";
+}
+h2{
+    font-family: "Ubuntu";
+}
+.col-lg-4{
+  padding-top: 100px;
+}
+.himg1:hover{
+  background-color: gold;
+}
+.himg2:hover{
+  background-color: gold;
+}
+.dog3{
+  padding-top: 100px;
+}
+.calltxt{
+  padding-left: 20px;
+}
+.text1{
+  padding-top: 100px;
+  padding-bottom: 100px;
+}
+.limg{
+  width: 650px;
+}
+.toptxt{
+  padding-left: 20px;
+}
+.bottom-container{
+  background-color: black;
+  height: 200px;
+  text-align: center;
+  padding-top: 100px;
+  color: white;
+}
